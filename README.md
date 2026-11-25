@@ -1,4 +1,3 @@
-
 # Hi, I’m Diego Hernández Delgado
 
 I’m a software engineer at Microsoft, where I build customer-facing features and test infrastructure for Microsoft 365 licensing.
@@ -12,8 +11,6 @@ I enjoy building applications and thinking through how they’re designed, teste
 
 ## Tools and interests
 
-I work with C++, C#, TypeScript, React Native, and Python, and have built for iOS with Swift. I’m taking graduate-level computer science courses at the University of Washington’s Allen School, including machine learning.
-
-Outside of tech, I enjoy basketball, swimming, and dancing.
+I work with C++, C#, TypeScript, React Native, and Python, and have built for iOS with Swift. I earned my bachelor’s degree in Computer Engineering from Instituto Tecnológico Autónomo de México (ITAM). I’m taking graduate-level computer science courses at the University of Washington’s Allen School, including machine learning.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/diego-hd/)
