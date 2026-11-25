@@ -4,11 +4,11 @@ I’m a software engineer at Microsoft, where I build customer-facing features a
 
 I enjoy building applications and thinking through how they’re designed, tested, and maintained. I’m also interested in using AI to make everyday engineering work easier, from investigating a failing build to automating end-to-end UI tests.
 
+## Tools and interests
+
+I work with C++, C#, TypeScript, React Native, and Python, and have built for iOS with Swift. I earned my bachelor’s degree in Computer Engineering from Instituto Tecnológico Autónomo de México (ITAM). I’m taking graduate-level computer science courses at the University of Washington’s Allen School, including machine learning.
+
 ## Selected projects
 
 - [Proyecto Tamalito](https://github.com/DiegoHuesos/ProyectoTamalito) — A C# and WPF project for selling and managing food products.
 - [Laboratorio Web](https://github.com/DiegoHuesos/LaboratorioWeb) — A collection of web projects from my time at ITAM.
-
-## Tools and interests
-
-I work with C++, C#, TypeScript, React Native, and Python, and have built for iOS with Swift. I earned my bachelor’s degree in Computer Engineering from Instituto Tecnológico Autónomo de México (ITAM). I’m taking graduate-level computer science courses at the University of Washington’s Allen School, including machine learning.
