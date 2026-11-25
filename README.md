@@ -6,4 +6,4 @@ I enjoy building applications and thinking through how they’re designed, teste
 
 ## Tools and interests
 
-I work with C++, C#, TypeScript, React Native, and Python, and have built for iOS with Swift. I earned my bachelor’s degree in Computer Engineering from Instituto Tecnológico Autónomo de México (ITAM). I’m taking graduate-level computer science courses at the University of Washington’s Allen School, including machine learning.
+I work with C++, C#, TypeScript, React Native, and Python, and have built for iOS with Swift and Java. I earned my bachelor’s degree in Computer Engineering from Instituto Tecnológico Autónomo de México (ITAM). I’m taking graduate-level computer science courses at the University of Washington’s Allen School, including machine learning.
